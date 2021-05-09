@@ -16,6 +16,7 @@ Enviorment needed
 Example run of script
 
 ./find.sh DISTRICT_ID DATE(DD-MM-YYYY) AGE
+  i.e ./find.sh 202 09-05-2021 45
 
 DISTRICT_ID
   - Cowin have provided a API to list all the state with its ID and its district with ID, 
