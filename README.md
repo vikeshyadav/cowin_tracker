@@ -2,7 +2,7 @@
 find.sh
   - This script run every 7 seconds to be restricted with Gonverment rule of 100 call in 5 min.
   - If no availability found the it will return "No Slot found"
-  - If it found any availability then will print output as described in example section
+  - If it found any availability then will print output as described in example section with a beep sounding 10 times. 
   - This will only show availability if vaccine is greater then 1 in count
   - to modify you can change the script value[1-9]
   - this script will create a data2.json file in current directory
