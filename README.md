@@ -5,6 +5,7 @@ find.sh
   - If it found any availability then will print output as described in example section
   - This will only show availability if vaccine is greater then 1 in count
   - to modify you can change the script value[1-9]
+  - this script will create a data2.json file in current directory
 
 
 Enviorment needed 
